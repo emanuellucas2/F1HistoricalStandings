@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/schemas/mrd-1.5.xsl"?>
+<MRData xmlns="http://ergast.com/mrd/1.5" series="f1" url="http://ergast.com/api/f1/2021/races" limit="30" offset="0" total="22">
+	<RaceTable season="2021">
+		<Race season="2021" round="1" url="http://en.wikipedia.org/wiki/2021_Bahrain_Grand_Prix">
+			<RaceName>Bahrain Grand Prix</RaceName>
+			<Circuit circuitId="bahrain" url="http://en.wikipedia.org/wiki/Bahrain_International_Circuit">
+				<CircuitName>Bahrain International Circuit</CircuitName>
+				<Location lat="26.0325" long="50.5106">
+					<Locality>Sakhir</Locality>
+					<Country>Bahrain</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-03-28</Date>
+			<Time>15:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-03-26</Date>
+			</FirstPractice>
+			<SecondPractice>
+				<Date>2021-03-26</Date>
+			</SecondPractice>
+			<ThirdPractice>
+				<Date>2021-03-27</Date>
+			</ThirdPractice>
+			<Qualifying>
+				<Date>2021-03-27</Date>
+			</Qualifying>
+		</Race>
+		<Race season="2021" round="2" url="http://en.wikipedia.org/wiki/2021_Emilia_Romagna_Grand_Prix">
+			<RaceName>Emilia Romagna Grand Prix</RaceName>
+			<Circuit circuitId="imola" url="http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari">
+				<CircuitName>Autodromo Enzo e Dino Ferrari</CircuitName>
+				<Location lat="44.3439" long="11.7167">
+					<Locality>Imola</Locality>
+					<Country>Italy</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-04-18</Date>
+			<Time>13:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-04-16</Date>
+			</FirstPractice>
+			<SecondPractice>
+				<Date>2021-04-16</Date>
+			</SecondPractice>
+			<ThirdPractice>
+				<Date>2021-04-17</Date>
+			</ThirdPractice>
+			<Qualifying>
+				<Date>2021-04-17</Date>
+			</Qualifying>
+		</Race>
+		<Race season="2021" round="3" url="http://en.wikipedia.org/wiki/2021_Portuguese_Grand_Prix">
+			<RaceName>Portuguese Grand Prix</RaceName>
+			<Circuit circuitId="portimao" url="http://en.wikipedia.org/wiki/Algarve_International_Circuit">
+				<CircuitName>Autódromo Internacional do Algarve</CircuitName>
+				<Location lat="37.227" long="-8.6267">
+					<Locality>Portimão</Locality>
+					<Country>Portugal</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-05-02</Date>
+			<Time>14:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-04-30</Date>
+			</FirstPractice>
+			<SecondPractice>
+				<Date>2021-04-30</Date>
+			</SecondPractice>
+			<ThirdPractice>
+				<Date>2021-05-01</Date>
+			</ThirdPractice>
+			<Qualifying>
+				<Date>2021-05-01</Date>
+			</Qualifying>
+		</Race>
+		<Race season="2021" round="4" url="http://en.wikipedia.org/wiki/2021_Spanish_Grand_Prix">
+			<RaceName>Spanish Grand Prix</RaceName>
+			<Circuit circuitId="catalunya" url="http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya">
+				<CircuitName>Circuit de Barcelona-Catalunya</CircuitName>
+				<Location lat="41.57" long="2.26111">
+					<Locality>Montmeló</Locality>
+					<Country>Spain</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-05-09</Date>
+			<Time>13:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-05-07</Date>
+			</FirstPractice>
+			<SecondPractice>
+				<Date>2021-05-07</Date>
+			</SecondPractice>
+			<ThirdPractice>
+				<Date>2021-05-08</Date>
+			</ThirdPractice>
+			<Qualifying>
+				<Date>2021-05-08</Date>
+			</Qualifying>
+		</Race>
+		<Race season="2021" round="5" url="http://en.wikipedia.org/wiki/2021_Monaco_Grand_Prix">
+			<RaceName>Monaco Grand Prix</RaceName>
+			<Circuit circuitId="monaco" url="http://en.wikipedia.org/wiki/Circuit_de_Monaco">
+				<CircuitName>Circuit de Monaco</CircuitName>
+				<Location lat="43.7347" long="7.42056">
+					<Locality>Monte-Carlo</Locality>
+					<Country>Monaco</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-05-23</Date>
+			<Time>13:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-05-21</Date>
+			</FirstPractice>
+			<SecondPractice>
+				<Date>2021-05-21</Date>
+			</SecondPractice>
+			<ThirdPractice>
+				<Date>2021-05-22</Date>
+			</ThirdPractice>
+			<Qualifying>
+				<Date>2021-05-22</Date>
+			</Qualifying>
+		</Race>
+		<Race season="2021" round="6" url="http://en.wikipedia.org/wiki/2021_Azerbaijan_Grand_Prix">
+			<RaceName>Azerbaijan Grand Prix</RaceName>
+			<Circuit circuitId="baku" url="http://en.wikipedia.org/wiki/Baku_City_Circuit">
+				<CircuitName>Baku City Circuit</CircuitName>
+				<Location lat="40.3725" long="49.8533">
+					<Locality>Baku</Locality>
+					<Country>Azerbaijan</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-06-06</Date>
+			<Time>12:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-06-04</Date>
+			</FirstPractice>
+			<SecondPractice>
+				<Date>2021-06-04</Date>
+			</SecondPractice>
+			<ThirdPractice>
+				<Date>2021-06-05</Date>
+			</ThirdPractice>
+			<Qualifying>
+				<Date>2021-06-05</Date>
+			</Qualifying>
+		</Race>
+		<Race season="2021" round="7" url="http://en.wikipedia.org/wiki/2021_French_Grand_Prix">
+			<RaceName>French Grand Prix</RaceName>
+			<Circuit circuitId="ricard" url="http://en.wikipedia.org/wiki/Paul_Ricard_Circuit">
+				<CircuitName>Circuit Paul Ricard</CircuitName>
+				<Location lat="43.2506" long="5.79167">
+					<Locality>Le Castellet</Locality>
+					<Country>France</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-06-20</Date>
+			<Time>13:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-06-18</Date>
+			</FirstPractice>
+			<SecondPractice>
+				<Date>2021-06-18</Date>
+			</SecondPractice>
+			<ThirdPractice>
+				<Date>2021-06-19</Date>
+			</ThirdPractice>
+			<Qualifying>
+				<Date>2021-06-19</Date>
+			</Qualifying>
+		</Race>
+		<Race season="2021" round="8" url="http://en.wikipedia.org/wiki/2021_Styrian_Grand_Prix">
+			<RaceName>Styrian Grand Prix</RaceName>
+			<Circuit circuitId="red_bull_ring" url="http://en.wikipedia.org/wiki/Red_Bull_Ring">
+				<CircuitName>Red Bull Ring</CircuitName>
+				<Location lat="47.2197" long="14.7647">
+					<Locality>Spielberg</Locality>
+					<Country>Austria</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-06-27</Date>
+			<Time>13:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-06-25</Date>
+			</FirstPractice>
+			<SecondPractice>
+				<Date>2021-06-25</Date>
+			</SecondPractice>
+			<ThirdPractice>
+				<Date>2021-06-26</Date>
+			</ThirdPractice>
+			<Qualifying>
+				<Date>2021-06-26</Date>
+			</Qualifying>
+		</Race>
+		<Race season="2021" round="9" url="http://en.wikipedia.org/wiki/2021_Austrian_Grand_Prix">
+			<RaceName>Austrian Grand Prix</RaceName>
+			<Circuit circuitId="red_bull_ring" url="http://en.wikipedia.org/wiki/Red_Bull_Ring">
+				<CircuitName>Red Bull Ring</CircuitName>
+				<Location lat="47.2197" long="14.7647">
+					<Locality>Spielberg</Locality>
+					<Country>Austria</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-07-04</Date>
+			<Time>13:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-07-02</Date>
+			</FirstPractice>
+			<SecondPractice>
+				<Date>2021-07-02</Date>
+			</SecondPractice>
+			<ThirdPractice>
+				<Date>2021-07-03</Date>
+			</ThirdPractice>
+			<Qualifying>
+				<Date>2021-07-03</Date>
+			</Qualifying>
+		</Race>
+		<Race season="2021" round="10" url="http://en.wikipedia.org/wiki/2021_British_Grand_Prix">
+			<RaceName>British Grand Prix</RaceName>
+			<Circuit circuitId="silverstone" url="http://en.wikipedia.org/wiki/Silverstone_Circuit">
+				<CircuitName>Silverstone Circuit</CircuitName>
+				<Location lat="52.0786" long="-1.01694">
+					<Locality>Silverstone</Locality>
+					<Country>UK</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-07-18</Date>
+			<Time>14:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-07-16</Date>
+			</FirstPractice>
+			<Qualifying>
+				<Date>2021-07-16</Date>
+			</Qualifying>
+			<SecondPractice>
+				<Date>2021-07-17</Date>
+			</SecondPractice>
+			<Sprint>
+				<Date>2021-07-17</Date>
+			</Sprint>
+		</Race>
+		<Race season="2021" round="11" url="http://en.wikipedia.org/wiki/2021_Hungarian_Grand_Prix">
+			<RaceName>Hungarian Grand Prix</RaceName>
+			<Circuit circuitId="hungaroring" url="http://en.wikipedia.org/wiki/Hungaroring">
+				<CircuitName>Hungaroring</CircuitName>
+				<Location lat="47.5789" long="19.2486">
+					<Locality>Budapest</Locality>
+					<Country>Hungary</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-08-01</Date>
+			<Time>13:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-07-30</Date>
+			</FirstPractice>
+			<SecondPractice>
+				<Date>2021-07-30</Date>
+			</SecondPractice>
+			<ThirdPractice>
+				<Date>2021-07-31</Date>
+			</ThirdPractice>
+			<Qualifying>
+				<Date>2021-07-31</Date>
+			</Qualifying>
+		</Race>
+		<Race season="2021" round="12" url="http://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix">
+			<RaceName>Belgian Grand Prix</RaceName>
+			<Circuit circuitId="spa" url="http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps">
+				<CircuitName>Circuit de Spa-Francorchamps</CircuitName>
+				<Location lat="50.4372" long="5.97139">
+					<Locality>Spa</Locality>
+					<Country>Belgium</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-08-29</Date>
+			<Time>13:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-08-27</Date>
+			</FirstPractice>
+			<SecondPractice>
+				<Date>2021-08-27</Date>
+			</SecondPractice>
+			<ThirdPractice>
+				<Date>2021-08-28</Date>
+			</ThirdPractice>
+			<Qualifying>
+				<Date>2021-08-28</Date>
+			</Qualifying>
+		</Race>
+		<Race season="2021" round="13" url="http://en.wikipedia.org/wiki/2021_Dutch_Grand_Prix">
+			<RaceName>Dutch Grand Prix</RaceName>
+			<Circuit circuitId="zandvoort" url="http://en.wikipedia.org/wiki/Circuit_Zandvoort">
+				<CircuitName>Circuit Park Zandvoort</CircuitName>
+				<Location lat="52.3888" long="4.54092">
+					<Locality>Zandvoort</Locality>
+					<Country>Netherlands</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-09-05</Date>
+			<Time>13:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-09-03</Date>
+			</FirstPractice>
+			<SecondPractice>
+				<Date>2021-09-03</Date>
+			</SecondPractice>
+			<ThirdPractice>
+				<Date>2021-09-04</Date>
+			</ThirdPractice>
+			<Qualifying>
+				<Date>2021-09-04</Date>
+			</Qualifying>
+		</Race>
+		<Race season="2021" round="14" url="http://en.wikipedia.org/wiki/2021_Italian_Grand_Prix">
+			<RaceName>Italian Grand Prix</RaceName>
+			<Circuit circuitId="monza" url="http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza">
+				<CircuitName>Autodromo Nazionale di Monza</CircuitName>
+				<Location lat="45.6156" long="9.28111">
+					<Locality>Monza</Locality>
+					<Country>Italy</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-09-12</Date>
+			<Time>13:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-09-10</Date>
+			</FirstPractice>
+			<Qualifying>
+				<Date>2021-09-10</Date>
+			</Qualifying>
+			<SecondPractice>
+				<Date>2021-09-11</Date>
+			</SecondPractice>
+			<Sprint>
+				<Date>2021-09-11</Date>
+			</Sprint>
+		</Race>
+		<Race season="2021" round="15" url="http://en.wikipedia.org/wiki/2021_Russian_Grand_Prix">
+			<RaceName>Russian Grand Prix</RaceName>
+			<Circuit circuitId="sochi" url="http://en.wikipedia.org/wiki/Sochi_Autodrom">
+				<CircuitName>Sochi Autodrom</CircuitName>
+				<Location lat="43.4057" long="39.9578">
+					<Locality>Sochi</Locality>
+					<Country>Russia</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-09-26</Date>
+			<Time>12:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-09-24</Date>
+			</FirstPractice>
+			<SecondPractice>
+				<Date>2021-09-24</Date>
+			</SecondPractice>
+			<ThirdPractice>
+				<Date>2021-09-25</Date>
+			</ThirdPractice>
+			<Qualifying>
+				<Date>2021-09-25</Date>
+			</Qualifying>
+		</Race>
+		<Race season="2021" round="16" url="http://en.wikipedia.org/wiki/2021_Turkish_Grand_Prix">
+			<RaceName>Turkish Grand Prix</RaceName>
+			<Circuit circuitId="istanbul" url="http://en.wikipedia.org/wiki/Istanbul_Park">
+				<CircuitName>Istanbul Park</CircuitName>
+				<Location lat="40.9517" long="29.405">
+					<Locality>Istanbul</Locality>
+					<Country>Turkey</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-10-10</Date>
+			<Time>12:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-10-08</Date>
+			</FirstPractice>
+			<SecondPractice>
+				<Date>2021-10-08</Date>
+			</SecondPractice>
+			<ThirdPractice>
+				<Date>2021-10-09</Date>
+			</ThirdPractice>
+			<Qualifying>
+				<Date>2021-10-09</Date>
+			</Qualifying>
+		</Race>
+		<Race season="2021" round="17" url="http://en.wikipedia.org/wiki/2021_United_States_Grand_Prix">
+			<RaceName>United States Grand Prix</RaceName>
+			<Circuit circuitId="americas" url="http://en.wikipedia.org/wiki/Circuit_of_the_Americas">
+				<CircuitName>Circuit of the Americas</CircuitName>
+				<Location lat="30.1328" long="-97.6411">
+					<Locality>Austin</Locality>
+					<Country>USA</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-10-24</Date>
+			<Time>19:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-10-22</Date>
+			</FirstPractice>
+			<SecondPractice>
+				<Date>2021-10-22</Date>
+			</SecondPractice>
+			<ThirdPractice>
+				<Date>2021-10-23</Date>
+			</ThirdPractice>
+			<Qualifying>
+				<Date>2021-10-23</Date>
+			</Qualifying>
+		</Race>
+		<Race season="2021" round="18" url="http://en.wikipedia.org/wiki/2021_Mexican_Grand_Prix">
+			<RaceName>Mexico City Grand Prix</RaceName>
+			<Circuit circuitId="rodriguez" url="http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez">
+				<CircuitName>Autódromo Hermanos Rodríguez</CircuitName>
+				<Location lat="19.4042" long="-99.0907">
+					<Locality>Mexico City</Locality>
+					<Country>Mexico</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-11-07</Date>
+			<Time>19:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-11-05</Date>
+			</FirstPractice>
+			<SecondPractice>
+				<Date>2021-11-05</Date>
+			</SecondPractice>
+			<ThirdPractice>
+				<Date>2021-11-06</Date>
+			</ThirdPractice>
+			<Qualifying>
+				<Date>2021-11-06</Date>
+			</Qualifying>
+		</Race>
+		<Race season="2021" round="19" url="http://en.wikipedia.org/wiki/2021_S%C3%A3o_Paulo_Grand_Prix">
+			<RaceName>São Paulo Grand Prix</RaceName>
+			<Circuit circuitId="interlagos" url="http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace">
+				<CircuitName>Autódromo José Carlos Pace</CircuitName>
+				<Location lat="-23.7036" long="-46.6997">
+					<Locality>São Paulo</Locality>
+					<Country>Brazil</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-11-14</Date>
+			<Time>17:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-11-12</Date>
+			</FirstPractice>
+			<Qualifying>
+				<Date>2021-11-12</Date>
+			</Qualifying>
+			<SecondPractice>
+				<Date>2021-11-13</Date>
+			</SecondPractice>
+			<Sprint>
+				<Date>2021-11-13</Date>
+			</Sprint>
+		</Race>
+		<Race season="2021" round="20" url="http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix">
+			<RaceName>Qatar Grand Prix</RaceName>
+			<Circuit circuitId="losail" url="http://en.wikipedia.org/wiki/Losail_International_Circuit">
+				<CircuitName>Losail International Circuit</CircuitName>
+				<Location lat="25.49" long="51.4542">
+					<Locality>Al Daayen</Locality>
+					<Country>Qatar</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-11-21</Date>
+			<Time>14:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-11-19</Date>
+			</FirstPractice>
+			<SecondPractice>
+				<Date>2021-11-19</Date>
+			</SecondPractice>
+			<ThirdPractice>
+				<Date>2021-11-20</Date>
+			</ThirdPractice>
+			<Qualifying>
+				<Date>2021-11-20</Date>
+			</Qualifying>
+		</Race>
+		<Race season="2021" round="21" url="http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix">
+			<RaceName>Saudi Arabian Grand Prix</RaceName>
+			<Circuit circuitId="jeddah" url="http://en.wikipedia.org/wiki/Jeddah_Street_Circuit">
+				<CircuitName>Jeddah Corniche Circuit</CircuitName>
+				<Location lat="21.6319" long="39.1044">
+					<Locality>Jeddah</Locality>
+					<Country>Saudi Arabia</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-12-05</Date>
+			<Time>17:30:00Z</Time>
+			<FirstPractice>
+				<Date>2021-12-03</Date>
+			</FirstPractice>
+			<SecondPractice>
+				<Date>2021-12-03</Date>
+			</SecondPractice>
+			<ThirdPractice>
+				<Date>2021-12-04</Date>
+			</ThirdPractice>
+			<Qualifying>
+				<Date>2021-12-04</Date>
+			</Qualifying>
+		</Race>
+		<Race season="2021" round="22" url="http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix">
+			<RaceName>Abu Dhabi Grand Prix</RaceName>
+			<Circuit circuitId="yas_marina" url="http://en.wikipedia.org/wiki/Yas_Marina_Circuit">
+				<CircuitName>Yas Marina Circuit</CircuitName>
+				<Location lat="24.4672" long="54.6031">
+					<Locality>Abu Dhabi</Locality>
+					<Country>UAE</Country>
+				</Location>
+			</Circuit>
+			<Date>2021-12-12</Date>
+			<Time>13:00:00Z</Time>
+			<FirstPractice>
+				<Date>2021-12-10</Date>
+			</FirstPractice>
+			<SecondPractice>
+				<Date>2021-12-10</Date>
+			</SecondPractice>
+			<ThirdPractice>
+				<Date>2021-12-11</Date>
+			</ThirdPractice>
+			<Qualifying>
+				<Date>2021-12-11</Date>
+			</Qualifying>
+		</Race>
+	</RaceTable>
+</MRData>

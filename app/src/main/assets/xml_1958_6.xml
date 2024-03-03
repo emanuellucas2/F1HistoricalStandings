@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/schemas/mrd-1.5.xsl"?>
+<MRData xmlns="http://ergast.com/mrd/1.5" series="f1" url="http://ergast.com/api/f1/1958/6/driverstandings" limit="30" offset="0" total="72">
+	<StandingsTable season="1958" round="6">
+		<StandingsList season="1958" round="6">
+			<DriverStanding position="1" positionText="1" points="23" wins="2">
+				<Driver driverId="moss" url="http://en.wikipedia.org/wiki/Stirling_Moss">
+					<GivenName>Stirling</GivenName>
+					<FamilyName>Moss</FamilyName>
+					<DateOfBirth>1929-09-17</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="cooper" url="http://en.wikipedia.org/wiki/Cooper_Car_Company">
+					<Name>Cooper</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+				<Constructor constructorId="vanwall" url="http://en.wikipedia.org/wiki/Vanwall">
+					<Name>Vanwall</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="2" positionText="2" points="23" wins="1">
+				<Driver driverId="hawthorn" url="http://en.wikipedia.org/wiki/Mike_Hawthorn">
+					<GivenName>Mike</GivenName>
+					<FamilyName>Hawthorn</FamilyName>
+					<DateOfBirth>1929-04-10</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="ferrari" url="http://en.wikipedia.org/wiki/Scuderia_Ferrari">
+					<Name>Ferrari</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="3" positionText="3" points="12" wins="0">
+				<Driver driverId="musso" url="http://en.wikipedia.org/wiki/Luigi_Musso">
+					<GivenName>Luigi</GivenName>
+					<FamilyName>Musso</FamilyName>
+					<DateOfBirth>1924-07-28</DateOfBirth>
+					<Nationality>Italian</Nationality>
+				</Driver>
+				<Constructor constructorId="ferrari" url="http://en.wikipedia.org/wiki/Scuderia_Ferrari">
+					<Name>Ferrari</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="4" positionText="4" points="10" wins="0">
+				<Driver driverId="schell" url="http://en.wikipedia.org/wiki/Harry_Schell">
+					<GivenName>Harry</GivenName>
+					<FamilyName>Schell</FamilyName>
+					<DateOfBirth>1921-06-29</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="maserati" url="http://en.wikipedia.org/wiki/Maserati">
+					<Name>Maserati</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+				<Constructor constructorId="brm" url="http://en.wikipedia.org/wiki/BRM">
+					<Name>BRM</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="5" positionText="5" points="8" wins="1">
+				<Driver driverId="trintignant" url="http://en.wikipedia.org/wiki/Maurice_Trintignant">
+					<GivenName>Maurice</GivenName>
+					<FamilyName>Trintignant</FamilyName>
+					<DateOfBirth>1917-10-30</DateOfBirth>
+					<Nationality>French</Nationality>
+				</Driver>
+				<Constructor constructorId="cooper" url="http://en.wikipedia.org/wiki/Cooper_Car_Company">
+					<Name>Cooper</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+				<Constructor constructorId="maserati" url="http://en.wikipedia.org/wiki/Maserati">
+					<Name>Maserati</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+				<Constructor constructorId="brm" url="http://en.wikipedia.org/wiki/BRM">
+					<Name>BRM</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="6" positionText="6" points="8" wins="1">
+				<Driver driverId="brooks" url="http://en.wikipedia.org/wiki/Tony_Brooks">
+					<GivenName>Tony</GivenName>
+					<FamilyName>Brooks</FamilyName>
+					<DateOfBirth>1932-02-25</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="vanwall" url="http://en.wikipedia.org/wiki/Vanwall">
+					<Name>Vanwall</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="7" positionText="7" points="8" wins="1">
+				<Driver driverId="bryan" url="http://en.wikipedia.org/wiki/Jimmy_Bryan">
+					<GivenName>Jimmy</GivenName>
+					<FamilyName>Bryan</FamilyName>
+					<DateOfBirth>1926-01-28</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="epperly" url="http://en.wikipedia.org/wiki/Epperly">
+					<Name>Epperly</Name>
+					<Nationality>American</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="8" positionText="8" points="7" wins="0">
+				<Driver driverId="fangio" url="http://en.wikipedia.org/wiki/Juan_Manuel_Fangio">
+					<GivenName>Juan</GivenName>
+					<FamilyName>Fangio</FamilyName>
+					<DateOfBirth>1911-06-24</DateOfBirth>
+					<Nationality>Argentine</Nationality>
+				</Driver>
+				<Constructor constructorId="maserati" url="http://en.wikipedia.org/wiki/Maserati">
+					<Name>Maserati</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="9" positionText="9" points="6" wins="0">
+				<Driver driverId="george_amick" url="http://en.wikipedia.org/wiki/George_Amick">
+					<GivenName>George</GivenName>
+					<FamilyName>Amick</FamilyName>
+					<DateOfBirth>1924-10-24</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="epperly" url="http://en.wikipedia.org/wiki/Epperly">
+					<Name>Epperly</Name>
+					<Nationality>American</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="10" positionText="10" points="6" wins="0">
+				<Driver driverId="collins" url="http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver)">
+					<GivenName>Peter</GivenName>
+					<FamilyName>Collins</FamilyName>
+					<DateOfBirth>1931-11-06</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="ferrari" url="http://en.wikipedia.org/wiki/Scuderia_Ferrari">
+					<Name>Ferrari</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="11" positionText="11" points="6" wins="0">
+				<Driver driverId="behra" url="http://en.wikipedia.org/wiki/Jean_Behra">
+					<GivenName>Jean</GivenName>
+					<FamilyName>Behra</FamilyName>
+					<DateOfBirth>1921-02-16</DateOfBirth>
+					<Nationality>French</Nationality>
+				</Driver>
+				<Constructor constructorId="maserati" url="http://en.wikipedia.org/wiki/Maserati">
+					<Name>Maserati</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+				<Constructor constructorId="brm" url="http://en.wikipedia.org/wiki/BRM">
+					<Name>BRM</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="12" positionText="12" points="4" wins="0">
+				<Driver driverId="trips" url="http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips">
+					<GivenName>Wolfgang</GivenName>
+					<FamilyName>von Trips</FamilyName>
+					<DateOfBirth>1928-05-04</DateOfBirth>
+					<Nationality>German</Nationality>
+				</Driver>
+				<Constructor constructorId="ferrari" url="http://en.wikipedia.org/wiki/Scuderia_Ferrari">
+					<Name>Ferrari</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="13" positionText="13" points="4" wins="0">
+				<Driver driverId="lewis-evans" url="http://en.wikipedia.org/wiki/Stuart_Lewis-Evans">
+					<GivenName>Stuart</GivenName>
+					<FamilyName>Lewis-Evans</FamilyName>
+					<DateOfBirth>1930-04-20</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="vanwall" url="http://en.wikipedia.org/wiki/Vanwall">
+					<Name>Vanwall</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="14" positionText="14" points="4" wins="0">
+				<Driver driverId="boyd" url="http://en.wikipedia.org/wiki/Johnny_Boyd">
+					<GivenName>Johnny</GivenName>
+					<FamilyName>Boyd</FamilyName>
+					<DateOfBirth>1926-08-19</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="kurtis_kraft" url="http://en.wikipedia.org/wiki/Kurtis_Kraft">
+					<Name>Kurtis Kraft</Name>
+					<Nationality>American</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="15" positionText="15" points="4" wins="0">
+				<Driver driverId="bettenhausen" url="http://en.wikipedia.org/wiki/Tony_Bettenhausen">
+					<GivenName>Tony</GivenName>
+					<FamilyName>Bettenhausen</FamilyName>
+					<DateOfBirth>1916-09-12</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="epperly" url="http://en.wikipedia.org/wiki/Epperly">
+					<Name>Epperly</Name>
+					<Nationality>American</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="16" positionText="16" points="3" wins="0">
+				<Driver driverId="allison" url="http://en.wikipedia.org/wiki/Cliff_Allison">
+					<GivenName>Cliff</GivenName>
+					<FamilyName>Allison</FamilyName>
+					<DateOfBirth>1932-02-08</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="team_lotus" url="http://en.wikipedia.org/wiki/Team_Lotus">
+					<Name>Team Lotus</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="17" positionText="17" points="3" wins="0">
+				<Driver driverId="jack_brabham" url="http://en.wikipedia.org/wiki/Jack_Brabham">
+					<GivenName>Jack</GivenName>
+					<FamilyName>Brabham</FamilyName>
+					<DateOfBirth>1926-04-02</DateOfBirth>
+					<Nationality>Australian</Nationality>
+				</Driver>
+				<Constructor constructorId="cooper" url="http://en.wikipedia.org/wiki/Cooper_Car_Company">
+					<Name>Cooper</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="18" positionText="18" points="3" wins="0">
+				<Driver driverId="salvadori" url="http://en.wikipedia.org/wiki/Roy_Salvadori">
+					<GivenName>Roy</GivenName>
+					<FamilyName>Salvadori</FamilyName>
+					<DateOfBirth>1922-05-12</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="cooper" url="http://en.wikipedia.org/wiki/Cooper_Car_Company">
+					<Name>Cooper</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="19" positionText="19" points="2" wins="0">
+				<Driver driverId="rathmann" url="http://en.wikipedia.org/wiki/Jim_Rathmann">
+					<GivenName>Jim</GivenName>
+					<FamilyName>Rathmann</FamilyName>
+					<DateOfBirth>1928-07-16</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="epperly" url="http://en.wikipedia.org/wiki/Epperly">
+					<Name>Epperly</Name>
+					<Nationality>American</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="20" positionText="20" points="0" wins="0">
+				<Driver driverId="gendebien" url="http://en.wikipedia.org/wiki/Olivier_Gendebien">
+					<GivenName>Olivier</GivenName>
+					<FamilyName>Gendebien</FamilyName>
+					<DateOfBirth>1924-01-12</DateOfBirth>
+					<Nationality>Belgian</Nationality>
+				</Driver>
+				<Constructor constructorId="ferrari" url="http://en.wikipedia.org/wiki/Scuderia_Ferrari">
+					<Name>Ferrari</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="21" positionText="21" points="0" wins="0">
+				<Driver driverId="reece" url="http://en.wikipedia.org/wiki/Jimmy_Reece">
+					<GivenName>Jimmy</GivenName>
+					<FamilyName>Reece</FamilyName>
+					<DateOfBirth>1929-11-17</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="watson" url="http://en.wikipedia.org/wiki/A.J._Watson">
+					<Name>Watson</Name>
+					<Nationality>American</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="22" positionText="22" points="0" wins="0">
+				<Driver driverId="freeland" url="http://en.wikipedia.org/wiki/Don_Freeland">
+					<GivenName>Don</GivenName>
+					<FamilyName>Freeland</FamilyName>
+					<DateOfBirth>1925-03-25</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="phillips" url="http://en.wikipedia.org/wiki/Phillips_(constructor)">
+					<Name>Phillips</Name>
+					<Nationality>American</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="23" positionText="23" points="0" wins="0">
+				<Driver driverId="phil_hill" url="http://en.wikipedia.org/wiki/Phil_Hill">
+					<GivenName>Phil</GivenName>
+					<FamilyName>Hill</FamilyName>
+					<DateOfBirth>1927-04-20</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="maserati" url="http://en.wikipedia.org/wiki/Maserati">
+					<Name>Maserati</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="24" positionText="24" points="0" wins="0">
+				<Driver driverId="menditeguy" url="http://en.wikipedia.org/wiki/Carlos_Menditeguy">
+					<GivenName>Carlos</GivenName>
+					<FamilyName>Menditeguy</FamilyName>
+					<DateOfBirth>1914-08-10</DateOfBirth>
+					<Nationality>Argentine</Nationality>
+				</Driver>
+				<Constructor constructorId="maserati" url="http://en.wikipedia.org/wiki/Maserati">
+					<Name>Maserati</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="25" positionText="25" points="0" wins="0">
+				<Driver driverId="bonnier" url="http://en.wikipedia.org/wiki/Joakim_Bonnier">
+					<GivenName>Jo</GivenName>
+					<FamilyName>Bonnier</FamilyName>
+					<DateOfBirth>1930-01-31</DateOfBirth>
+					<Nationality>Swedish</Nationality>
+				</Driver>
+				<Constructor constructorId="maserati" url="http://en.wikipedia.org/wiki/Maserati">
+					<Name>Maserati</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="26" positionText="26" points="0" wins="0">
+				<Driver driverId="godia" url="http://en.wikipedia.org/wiki/Paco_Godia">
+					<GivenName>Paco</GivenName>
+					<FamilyName>Godia</FamilyName>
+					<DateOfBirth>1921-03-21</DateOfBirth>
+					<Nationality>Spanish</Nationality>
+				</Driver>
+				<Constructor constructorId="maserati" url="http://en.wikipedia.org/wiki/Maserati">
+					<Name>Maserati</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="27" positionText="27" points="0" wins="0">
+				<Driver driverId="larson" url="http://en.wikipedia.org/wiki/Jud_Larson">
+					<GivenName>Jud</GivenName>
+					<FamilyName>Larson</FamilyName>
+					<DateOfBirth>1923-01-21</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="watson" url="http://en.wikipedia.org/wiki/A.J._Watson">
+					<Name>Watson</Name>
+					<Nationality>American</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="28" positionText="28" points="0" wins="0">
+				<Driver driverId="gould" url="http://en.wikipedia.org/wiki/Horace_Gould">
+					<GivenName>Horace</GivenName>
+					<FamilyName>Gould</FamilyName>
+					<DateOfBirth>1918-09-20</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="maserati" url="http://en.wikipedia.org/wiki/Maserati">
+					<Name>Maserati</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="29" positionText="29" points="0" wins="0">
+				<Driver driverId="gerini" url="http://en.wikipedia.org/wiki/Gerino_Gerini_(racing_driver)">
+					<GivenName>Gerino</GivenName>
+					<FamilyName>Gerini</FamilyName>
+					<DateOfBirth>1928-08-10</DateOfBirth>
+					<Nationality>Italian</Nationality>
+				</Driver>
+				<Constructor constructorId="maserati" url="http://en.wikipedia.org/wiki/Maserati">
+					<Name>Maserati</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="30" positionText="30" points="0" wins="0">
+				<Driver driverId="johnson" url="http://en.wikipedia.org/wiki/Eddie_Johnson_(auto_racer)">
+					<GivenName>Eddie</GivenName>
+					<FamilyName>Johnson</FamilyName>
+					<DateOfBirth>1919-02-10</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="kurtis_kraft" url="http://en.wikipedia.org/wiki/Kurtis_Kraft">
+					<Name>Kurtis Kraft</Name>
+					<Nationality>American</Nationality>
+				</Constructor>
+			</DriverStanding>
+		</StandingsList>
+	</StandingsTable>
+</MRData>

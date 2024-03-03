@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/schemas/mrd-1.5.xsl"?>
+<MRData xmlns="http://ergast.com/mrd/1.5" series="f1" url="http://ergast.com/api/f1/1973/1/driverstandings" limit="30" offset="0" total="19">
+	<StandingsTable season="1973" round="1">
+		<StandingsList season="1973" round="1">
+			<DriverStanding position="1" positionText="1" points="9" wins="1">
+				<Driver driverId="emerson_fittipaldi" url="http://en.wikipedia.org/wiki/Emerson_Fittipaldi">
+					<GivenName>Emerson</GivenName>
+					<FamilyName>Fittipaldi</FamilyName>
+					<DateOfBirth>1946-12-12</DateOfBirth>
+					<Nationality>Brazilian</Nationality>
+				</Driver>
+				<Constructor constructorId="team_lotus" url="http://en.wikipedia.org/wiki/Team_Lotus">
+					<Name>Team Lotus</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="2" positionText="2" points="6" wins="0">
+				<Driver driverId="cevert" url="http://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert">
+					<GivenName>François</GivenName>
+					<FamilyName>Cevert</FamilyName>
+					<DateOfBirth>1944-02-25</DateOfBirth>
+					<Nationality>French</Nationality>
+				</Driver>
+				<Constructor constructorId="tyrrell" url="http://en.wikipedia.org/wiki/Tyrrell_Racing">
+					<Name>Tyrrell</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="3" positionText="3" points="4" wins="0">
+				<Driver driverId="stewart" url="http://en.wikipedia.org/wiki/Jackie_Stewart">
+					<GivenName>Jackie</GivenName>
+					<FamilyName>Stewart</FamilyName>
+					<DateOfBirth>1939-06-11</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="tyrrell" url="http://en.wikipedia.org/wiki/Tyrrell_Racing">
+					<Name>Tyrrell</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="4" positionText="4" points="3" wins="0">
+				<Driver driverId="ickx" url="http://en.wikipedia.org/wiki/Jacky_Ickx">
+					<GivenName>Jacky</GivenName>
+					<FamilyName>Ickx</FamilyName>
+					<DateOfBirth>1945-01-01</DateOfBirth>
+					<Nationality>Belgian</Nationality>
+				</Driver>
+				<Constructor constructorId="ferrari" url="http://en.wikipedia.org/wiki/Scuderia_Ferrari">
+					<Name>Ferrari</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="5" positionText="5" points="2" wins="0">
+				<Driver driverId="hulme" url="http://en.wikipedia.org/wiki/Denny_Hulme">
+					<GivenName>Denny</GivenName>
+					<FamilyName>Hulme</FamilyName>
+					<DateOfBirth>1936-06-18</DateOfBirth>
+					<Nationality>New Zealander</Nationality>
+				</Driver>
+				<Constructor constructorId="mclaren" url="http://en.wikipedia.org/wiki/McLaren">
+					<Name>McLaren</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="6" positionText="6" points="1" wins="0">
+				<Driver driverId="wilson_fittipaldi" url="http://en.wikipedia.org/wiki/Wilson_Fittipaldi">
+					<GivenName>Wilson</GivenName>
+					<FamilyName>Fittipaldi</FamilyName>
+					<DateOfBirth>1943-12-25</DateOfBirth>
+					<Nationality>Brazilian</Nationality>
+				</Driver>
+				<Constructor constructorId="brabham" url="http://en.wikipedia.org/wiki/Brabham">
+					<Name>Brabham</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="7" positionText="7" points="0" wins="0">
+				<Driver driverId="regazzoni" url="http://en.wikipedia.org/wiki/Clay_Regazzoni">
+					<GivenName>Clay</GivenName>
+					<FamilyName>Regazzoni</FamilyName>
+					<DateOfBirth>1939-09-05</DateOfBirth>
+					<Nationality>Swiss</Nationality>
+				</Driver>
+				<Constructor constructorId="brm" url="http://en.wikipedia.org/wiki/BRM">
+					<Name>BRM</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="8" positionText="8" points="0" wins="0">
+				<Driver driverId="revson" url="http://en.wikipedia.org/wiki/Peter_Revson">
+					<GivenName>Peter</GivenName>
+					<FamilyName>Revson</FamilyName>
+					<DateOfBirth>1939-02-27</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="mclaren" url="http://en.wikipedia.org/wiki/McLaren">
+					<Name>McLaren</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="9" positionText="9" points="0" wins="0">
+				<Driver driverId="merzario" url="http://en.wikipedia.org/wiki/Arturo_Merzario">
+					<GivenName>Arturo</GivenName>
+					<FamilyName>Merzario</FamilyName>
+					<DateOfBirth>1943-03-11</DateOfBirth>
+					<Nationality>Italian</Nationality>
+				</Driver>
+				<Constructor constructorId="ferrari" url="http://en.wikipedia.org/wiki/Scuderia_Ferrari">
+					<Name>Ferrari</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="10" positionText="10" points="0" wins="0">
+				<Driver driverId="beuttler" url="http://en.wikipedia.org/wiki/Mike_Beuttler">
+					<GivenName>Mike</GivenName>
+					<FamilyName>Beuttler</FamilyName>
+					<DateOfBirth>1940-04-13</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="march" url="http://en.wikipedia.org/wiki/March_Engineering">
+					<Name>March</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="11" positionText="11" points="0" wins="0">
+				<Driver driverId="jarier" url="http://en.wikipedia.org/wiki/Jean-Pierre_Jarier">
+					<GivenName>Jean-Pierre</GivenName>
+					<FamilyName>Jarier</FamilyName>
+					<DateOfBirth>1946-07-10</DateOfBirth>
+					<Nationality>French</Nationality>
+				</Driver>
+				<Constructor constructorId="march" url="http://en.wikipedia.org/wiki/March_Engineering">
+					<Name>March</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="12" positionText="12" points="0" wins="0">
+				<Driver driverId="beltoise" url="http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise">
+					<GivenName>Jean-Pierre</GivenName>
+					<FamilyName>Beltoise</FamilyName>
+					<DateOfBirth>1937-04-26</DateOfBirth>
+					<Nationality>French</Nationality>
+				</Driver>
+				<Constructor constructorId="brm" url="http://en.wikipedia.org/wiki/BRM">
+					<Name>BRM</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="13" positionText="13" points="0" wins="0">
+				<Driver driverId="ganley" url="http://en.wikipedia.org/wiki/Howden_Ganley">
+					<GivenName>Howden</GivenName>
+					<FamilyName>Ganley</FamilyName>
+					<DateOfBirth>1941-12-24</DateOfBirth>
+					<Nationality>New Zealander</Nationality>
+				</Driver>
+				<Constructor constructorId="iso_marlboro" url="http://en.wikipedia.org/wiki/Iso_Marlboro">
+					<Name>Iso Marlboro</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="14" positionText="14" points="0" wins="0">
+				<Driver driverId="peterson" url="http://en.wikipedia.org/wiki/Ronnie_Peterson">
+					<GivenName>Ronnie</GivenName>
+					<FamilyName>Peterson</FamilyName>
+					<DateOfBirth>1944-02-14</DateOfBirth>
+					<Nationality>Swedish</Nationality>
+				</Driver>
+				<Constructor constructorId="team_lotus" url="http://en.wikipedia.org/wiki/Team_Lotus">
+					<Name>Team Lotus</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="15" positionText="15" points="0" wins="0">
+				<Driver driverId="lauda" url="http://en.wikipedia.org/wiki/Niki_Lauda">
+					<GivenName>Niki</GivenName>
+					<FamilyName>Lauda</FamilyName>
+					<DateOfBirth>1949-02-22</DateOfBirth>
+					<Nationality>Austrian</Nationality>
+				</Driver>
+				<Constructor constructorId="brm" url="http://en.wikipedia.org/wiki/BRM">
+					<Name>BRM</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="16" positionText="16" points="0" wins="0">
+				<Driver driverId="reutemann" url="http://en.wikipedia.org/wiki/Carlos_Reutemann">
+					<GivenName>Carlos</GivenName>
+					<FamilyName>Reutemann</FamilyName>
+					<DateOfBirth>1942-04-12</DateOfBirth>
+					<Nationality>Argentine</Nationality>
+				</Driver>
+				<Constructor constructorId="brabham" url="http://en.wikipedia.org/wiki/Brabham">
+					<Name>Brabham</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="17" positionText="17" points="0" wins="0">
+				<Driver driverId="hailwood" url="http://en.wikipedia.org/wiki/Mike_Hailwood">
+					<GivenName>Mike</GivenName>
+					<FamilyName>Hailwood</FamilyName>
+					<DateOfBirth>1940-04-02</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="surtees" url="http://en.wikipedia.org/wiki/Surtees">
+					<Name>Surtees</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="18" positionText="18" points="0" wins="0">
+				<Driver driverId="pace" url="http://en.wikipedia.org/wiki/Carlos_Pace">
+					<GivenName>Carlos</GivenName>
+					<FamilyName>Pace</FamilyName>
+					<DateOfBirth>1944-10-06</DateOfBirth>
+					<Nationality>Brazilian</Nationality>
+				</Driver>
+				<Constructor constructorId="surtees" url="http://en.wikipedia.org/wiki/Surtees">
+					<Name>Surtees</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="19" positionText="19" points="0" wins="0">
+				<Driver driverId="galli" url="http://en.wikipedia.org/wiki/Nanni_Galli">
+					<GivenName>Nanni</GivenName>
+					<FamilyName>Galli</FamilyName>
+					<DateOfBirth>1940-10-02</DateOfBirth>
+					<Nationality>Italian</Nationality>
+				</Driver>
+				<Constructor constructorId="iso_marlboro" url="http://en.wikipedia.org/wiki/Iso_Marlboro">
+					<Name>Iso Marlboro</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+		</StandingsList>
+	</StandingsTable>
+</MRData>

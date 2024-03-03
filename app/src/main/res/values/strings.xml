@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">F1 Historical Standings</string>
+    <string name="year">Year:</string>
+    <string name="race">Race:</string>
+</resources>

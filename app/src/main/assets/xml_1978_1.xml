@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/schemas/mrd-1.5.xsl"?>
+<MRData xmlns="http://ergast.com/mrd/1.5" series="f1" url="http://ergast.com/api/f1/1978/1/driverstandings" limit="30" offset="0" total="27">
+	<StandingsTable season="1978" round="1">
+		<StandingsList season="1978" round="1">
+			<DriverStanding position="1" positionText="1" points="9" wins="1">
+				<Driver driverId="mario_andretti" url="http://en.wikipedia.org/wiki/Mario_Andretti">
+					<GivenName>Mario</GivenName>
+					<FamilyName>Andretti</FamilyName>
+					<DateOfBirth>1940-02-28</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="team_lotus" url="http://en.wikipedia.org/wiki/Team_Lotus">
+					<Name>Team Lotus</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="2" positionText="2" points="6" wins="0">
+				<Driver driverId="lauda" url="http://en.wikipedia.org/wiki/Niki_Lauda">
+					<GivenName>Niki</GivenName>
+					<FamilyName>Lauda</FamilyName>
+					<DateOfBirth>1949-02-22</DateOfBirth>
+					<Nationality>Austrian</Nationality>
+				</Driver>
+				<Constructor constructorId="brabham" url="http://en.wikipedia.org/wiki/Brabham">
+					<Name>Brabham</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="3" positionText="3" points="4" wins="0">
+				<Driver driverId="depailler" url="http://en.wikipedia.org/wiki/Patrick_Depailler">
+					<GivenName>Patrick</GivenName>
+					<FamilyName>Depailler</FamilyName>
+					<DateOfBirth>1944-08-09</DateOfBirth>
+					<Nationality>French</Nationality>
+				</Driver>
+				<Constructor constructorId="tyrrell" url="http://en.wikipedia.org/wiki/Tyrrell_Racing">
+					<Name>Tyrrell</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="4" positionText="4" points="3" wins="0">
+				<Driver driverId="hunt" url="http://en.wikipedia.org/wiki/James_Hunt">
+					<GivenName>James</GivenName>
+					<FamilyName>Hunt</FamilyName>
+					<DateOfBirth>1947-08-29</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="mclaren" url="http://en.wikipedia.org/wiki/McLaren">
+					<Name>McLaren</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="5" positionText="5" points="2" wins="0">
+				<Driver driverId="peterson" url="http://en.wikipedia.org/wiki/Ronnie_Peterson">
+					<GivenName>Ronnie</GivenName>
+					<FamilyName>Peterson</FamilyName>
+					<DateOfBirth>1944-02-14</DateOfBirth>
+					<Nationality>Swedish</Nationality>
+				</Driver>
+				<Constructor constructorId="team_lotus" url="http://en.wikipedia.org/wiki/Team_Lotus">
+					<Name>Team Lotus</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="6" positionText="6" points="1" wins="0">
+				<Driver driverId="tambay" url="http://en.wikipedia.org/wiki/Patrick_Tambay">
+					<GivenName>Patrick</GivenName>
+					<FamilyName>Tambay</FamilyName>
+					<DateOfBirth>1949-06-25</DateOfBirth>
+					<Nationality>French</Nationality>
+				</Driver>
+				<Constructor constructorId="mclaren" url="http://en.wikipedia.org/wiki/McLaren">
+					<Name>McLaren</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="7" positionText="7" points="0" wins="0">
+				<Driver driverId="reutemann" url="http://en.wikipedia.org/wiki/Carlos_Reutemann">
+					<GivenName>Carlos</GivenName>
+					<FamilyName>Reutemann</FamilyName>
+					<DateOfBirth>1942-04-12</DateOfBirth>
+					<Nationality>Argentine</Nationality>
+				</Driver>
+				<Constructor constructorId="ferrari" url="http://en.wikipedia.org/wiki/Scuderia_Ferrari">
+					<Name>Ferrari</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="8" positionText="8" points="0" wins="0">
+				<Driver driverId="gilles_villeneuve" url="http://en.wikipedia.org/wiki/Gilles_Villeneuve">
+					<GivenName>Gilles</GivenName>
+					<FamilyName>Villeneuve</FamilyName>
+					<DateOfBirth>1950-01-18</DateOfBirth>
+					<Nationality>Canadian</Nationality>
+				</Driver>
+				<Constructor constructorId="ferrari" url="http://en.wikipedia.org/wiki/Scuderia_Ferrari">
+					<Name>Ferrari</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="9" positionText="9" points="0" wins="0">
+				<Driver driverId="emerson_fittipaldi" url="http://en.wikipedia.org/wiki/Emerson_Fittipaldi">
+					<GivenName>Emerson</GivenName>
+					<FamilyName>Fittipaldi</FamilyName>
+					<DateOfBirth>1946-12-12</DateOfBirth>
+					<Nationality>Brazilian</Nationality>
+				</Driver>
+				<Constructor constructorId="fittipaldi" url="http://en.wikipedia.org/wiki/Fittipaldi_%28constructor%29">
+					<Name>Fittipaldi</Name>
+					<Nationality>Brazilian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="10" positionText="10" points="0" wins="0">
+				<Driver driverId="scheckter" url="http://en.wikipedia.org/wiki/Jody_Scheckter">
+					<GivenName>Jody</GivenName>
+					<FamilyName>Scheckter</FamilyName>
+					<DateOfBirth>1950-01-29</DateOfBirth>
+					<Nationality>South African</Nationality>
+				</Driver>
+				<Constructor constructorId="wolf" url="http://en.wikipedia.org/wiki/Walter_Wolf_Racing">
+					<Name>Wolf</Name>
+					<Nationality>Canadian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="11" positionText="11" points="0" wins="0">
+				<Driver driverId="mass" url="http://en.wikipedia.org/wiki/Jochen_Mass">
+					<GivenName>Jochen</GivenName>
+					<FamilyName>Mass</FamilyName>
+					<DateOfBirth>1946-09-30</DateOfBirth>
+					<Nationality>German</Nationality>
+				</Driver>
+				<Constructor constructorId="ats" url="http://en.wikipedia.org/wiki/ATS_(wheels)">
+					<Name>ATS</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="12" positionText="12" points="0" wins="0">
+				<Driver driverId="jarier" url="http://en.wikipedia.org/wiki/Jean-Pierre_Jarier">
+					<GivenName>Jean-Pierre</GivenName>
+					<FamilyName>Jarier</FamilyName>
+					<DateOfBirth>1946-07-10</DateOfBirth>
+					<Nationality>French</Nationality>
+				</Driver>
+				<Constructor constructorId="ats" url="http://en.wikipedia.org/wiki/ATS_(wheels)">
+					<Name>ATS</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="13" positionText="13" points="0" wins="0">
+				<Driver driverId="lunger" url="http://en.wikipedia.org/wiki/Brett_Lunger">
+					<GivenName>Brett</GivenName>
+					<FamilyName>Lunger</FamilyName>
+					<DateOfBirth>1945-11-14</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="mclaren" url="http://en.wikipedia.org/wiki/McLaren">
+					<Name>McLaren</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="14" positionText="14" points="0" wins="0">
+				<Driver driverId="pironi" url="http://en.wikipedia.org/wiki/Didier_Pironi">
+					<GivenName>Didier</GivenName>
+					<FamilyName>Pironi</FamilyName>
+					<DateOfBirth>1952-03-26</DateOfBirth>
+					<Nationality>French</Nationality>
+				</Driver>
+				<Constructor constructorId="tyrrell" url="http://en.wikipedia.org/wiki/Tyrrell_Racing">
+					<Name>Tyrrell</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="15" positionText="15" points="0" wins="0">
+				<Driver driverId="regazzoni" url="http://en.wikipedia.org/wiki/Clay_Regazzoni">
+					<GivenName>Clay</GivenName>
+					<FamilyName>Regazzoni</FamilyName>
+					<DateOfBirth>1939-09-05</DateOfBirth>
+					<Nationality>Swiss</Nationality>
+				</Driver>
+				<Constructor constructorId="shadow" url="http://en.wikipedia.org/wiki/Shadow_Racing_Cars">
+					<Name>Shadow</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="16" positionText="16" points="0" wins="0">
+				<Driver driverId="laffite" url="http://en.wikipedia.org/wiki/Jacques_Laffite">
+					<GivenName>Jacques</GivenName>
+					<FamilyName>Laffite</FamilyName>
+					<DateOfBirth>1943-11-21</DateOfBirth>
+					<Nationality>French</Nationality>
+				</Driver>
+				<Constructor constructorId="ligier" url="http://en.wikipedia.org/wiki/Ligier">
+					<Name>Ligier</Name>
+					<Nationality>French</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="17" positionText="17" points="0" wins="0">
+				<Driver driverId="stuck" url="http://en.wikipedia.org/wiki/Hans_Joachim_Stuck">
+					<GivenName>Hans-Joachim</GivenName>
+					<FamilyName>Stuck</FamilyName>
+					<DateOfBirth>1951-01-01</DateOfBirth>
+					<Nationality>German</Nationality>
+				</Driver>
+				<Constructor constructorId="shadow" url="http://en.wikipedia.org/wiki/Shadow_Racing_Cars">
+					<Name>Shadow</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="18" positionText="18" points="0" wins="0">
+				<Driver driverId="brambilla" url="http://en.wikipedia.org/wiki/Vittorio_Brambilla">
+					<GivenName>Vittorio</GivenName>
+					<FamilyName>Brambilla</FamilyName>
+					<DateOfBirth>1937-11-11</DateOfBirth>
+					<Nationality>Italian</Nationality>
+				</Driver>
+				<Constructor constructorId="surtees" url="http://en.wikipedia.org/wiki/Surtees">
+					<Name>Surtees</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="19" positionText="19" points="0" wins="0">
+				<Driver driverId="watson" url="http://en.wikipedia.org/wiki/John_Watson_(racing_driver)">
+					<GivenName>John</GivenName>
+					<FamilyName>Watson</FamilyName>
+					<DateOfBirth>1946-05-04</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="brabham" url="http://en.wikipedia.org/wiki/Brabham">
+					<Name>Brabham</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="20" positionText="20" points="0" wins="0">
+				<Driver driverId="jones" url="http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1)">
+					<GivenName>Alan</GivenName>
+					<FamilyName>Jones</FamilyName>
+					<DateOfBirth>1946-11-02</DateOfBirth>
+					<Nationality>Australian</Nationality>
+				</Driver>
+				<Constructor constructorId="williams" url="http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering">
+					<Name>Williams</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="21" positionText="21" points="0" wins="0">
+				<Driver driverId="ongais" url="http://en.wikipedia.org/wiki/Danny_Ongais">
+					<GivenName>Danny</GivenName>
+					<FamilyName>Ongais</FamilyName>
+					<DateOfBirth>1942-05-21</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="ensign" url="http://en.wikipedia.org/wiki/Ensign_%28racing_team%29">
+					<Name>Ensign</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="22" positionText="22" points="0" wins="0">
+				<Driver driverId="leoni" url="http://en.wikipedia.org/wiki/Lamberto_Leoni">
+					<GivenName>Lamberto</GivenName>
+					<FamilyName>Leoni</FamilyName>
+					<DateOfBirth>1953-05-24</DateOfBirth>
+					<Nationality>Italian</Nationality>
+				</Driver>
+				<Constructor constructorId="ensign" url="http://en.wikipedia.org/wiki/Ensign_%28racing_team%29">
+					<Name>Ensign</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="23" positionText="23" points="0" wins="0">
+				<Driver driverId="merzario" url="http://en.wikipedia.org/wiki/Arturo_Merzario">
+					<GivenName>Arturo</GivenName>
+					<FamilyName>Merzario</FamilyName>
+					<DateOfBirth>1943-03-11</DateOfBirth>
+					<Nationality>Italian</Nationality>
+				</Driver>
+				<Constructor constructorId="merzario" url="http://en.wikipedia.org/wiki/Merzario">
+					<Name>Merzario</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="24" positionText="24" points="0" wins="0">
+				<Driver driverId="keegan" url="http://en.wikipedia.org/wiki/Rupert_Keegan">
+					<GivenName>Rupert</GivenName>
+					<FamilyName>Keegan</FamilyName>
+					<DateOfBirth>1955-02-26</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="surtees" url="http://en.wikipedia.org/wiki/Surtees">
+					<Name>Surtees</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="25" positionText="25" points="0" wins="0">
+				<Driver driverId="rebaque" url="http://en.wikipedia.org/wiki/Hector_Rebaque">
+					<GivenName>Hector</GivenName>
+					<FamilyName>Rebaque</FamilyName>
+					<DateOfBirth>1956-02-05</DateOfBirth>
+					<Nationality>Mexican</Nationality>
+				</Driver>
+				<Constructor constructorId="team_lotus" url="http://en.wikipedia.org/wiki/Team_Lotus">
+					<Name>Team Lotus</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="26" positionText="26" points="0" wins="0">
+				<Driver driverId="cheever" url="http://en.wikipedia.org/wiki/Eddie_Cheever">
+					<GivenName>Eddie</GivenName>
+					<FamilyName>Cheever</FamilyName>
+					<DateOfBirth>1958-01-10</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="theodore" url="http://en.wikipedia.org/wiki/Theodore_Racing">
+					<Name>Theodore</Name>
+					<Nationality>Hong Kong</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="27" positionText="27" points="0" wins="0">
+				<Driver driverId="galica" url="http://en.wikipedia.org/wiki/Divina_Galica">
+					<GivenName>Divina</GivenName>
+					<FamilyName>Galica</FamilyName>
+					<DateOfBirth>1944-08-13</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="hesketh" url="http://en.wikipedia.org/wiki/Hesketh_Racing">
+					<Name>Hesketh</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+		</StandingsList>
+	</StandingsTable>
+</MRData>

@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/schemas/mrd-1.5.xsl"?>
+<MRData xmlns="http://ergast.com/mrd/1.5" series="f1" url="http://ergast.com/api/f1/1960/6/driverstandings" limit="30" offset="0" total="75">
+	<StandingsTable season="1960" round="6">
+		<StandingsList season="1960" round="6">
+			<DriverStanding position="1" positionText="1" points="24" wins="3">
+				<Driver driverId="jack_brabham" url="http://en.wikipedia.org/wiki/Jack_Brabham">
+					<GivenName>Jack</GivenName>
+					<FamilyName>Brabham</FamilyName>
+					<DateOfBirth>1926-04-02</DateOfBirth>
+					<Nationality>Australian</Nationality>
+				</Driver>
+				<Constructor constructorId="cooper-climax" url="http://en.wikipedia.org/wiki/Cooper_Car_Company">
+					<Name>Cooper-Climax</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="2" positionText="2" points="24" wins="1">
+				<Driver driverId="mclaren" url="http://en.wikipedia.org/wiki/Bruce_McLaren">
+					<GivenName>Bruce</GivenName>
+					<FamilyName>McLaren</FamilyName>
+					<DateOfBirth>1937-08-30</DateOfBirth>
+					<Nationality>New Zealander</Nationality>
+				</Driver>
+				<Constructor constructorId="cooper-climax" url="http://en.wikipedia.org/wiki/Cooper_Car_Company">
+					<Name>Cooper-Climax</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="3" positionText="3" points="11" wins="1">
+				<Driver driverId="moss" url="http://en.wikipedia.org/wiki/Stirling_Moss">
+					<GivenName>Stirling</GivenName>
+					<FamilyName>Moss</FamilyName>
+					<DateOfBirth>1929-09-17</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="cooper-climax" url="http://en.wikipedia.org/wiki/Cooper_Car_Company">
+					<Name>Cooper-Climax</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+				<Constructor constructorId="team_lotus" url="http://en.wikipedia.org/wiki/Team_Lotus">
+					<Name>Team Lotus</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="4" positionText="4" points="10" wins="0">
+				<Driver driverId="gendebien" url="http://en.wikipedia.org/wiki/Olivier_Gendebien">
+					<GivenName>Olivier</GivenName>
+					<FamilyName>Gendebien</FamilyName>
+					<DateOfBirth>1924-01-12</DateOfBirth>
+					<Nationality>Belgian</Nationality>
+				</Driver>
+				<Constructor constructorId="cooper-climax" url="http://en.wikipedia.org/wiki/Cooper_Car_Company">
+					<Name>Cooper-Climax</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="5" positionText="5" points="8" wins="1">
+				<Driver driverId="rathmann" url="http://en.wikipedia.org/wiki/Jim_Rathmann">
+					<GivenName>Jim</GivenName>
+					<FamilyName>Rathmann</FamilyName>
+					<DateOfBirth>1928-07-16</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="watson" url="http://en.wikipedia.org/wiki/A.J._Watson">
+					<Name>Watson</Name>
+					<Nationality>American</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="6" positionText="6" points="7" wins="0">
+				<Driver driverId="ireland" url="http://en.wikipedia.org/wiki/Innes_Ireland">
+					<GivenName>Innes</GivenName>
+					<FamilyName>Ireland</FamilyName>
+					<DateOfBirth>1930-06-12</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="team_lotus" url="http://en.wikipedia.org/wiki/Team_Lotus">
+					<Name>Team Lotus</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="7" positionText="7" points="7" wins="0">
+				<Driver driverId="phil_hill" url="http://en.wikipedia.org/wiki/Phil_Hill">
+					<GivenName>Phil</GivenName>
+					<FamilyName>Hill</FamilyName>
+					<DateOfBirth>1927-04-20</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="ferrari" url="http://en.wikipedia.org/wiki/Scuderia_Ferrari">
+					<Name>Ferrari</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="8" positionText="8" points="6" wins="0">
+				<Driver driverId="allison" url="http://en.wikipedia.org/wiki/Cliff_Allison">
+					<GivenName>Cliff</GivenName>
+					<FamilyName>Allison</FamilyName>
+					<DateOfBirth>1932-02-08</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="ferrari" url="http://en.wikipedia.org/wiki/Scuderia_Ferrari">
+					<Name>Ferrari</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="9" positionText="9" points="6" wins="0">
+				<Driver driverId="ward" url="http://en.wikipedia.org/wiki/Rodger_Ward">
+					<GivenName>Rodger</GivenName>
+					<FamilyName>Ward</FamilyName>
+					<DateOfBirth>1921-01-10</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="watson" url="http://en.wikipedia.org/wiki/A.J._Watson">
+					<Name>Watson</Name>
+					<Nationality>American</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="10" positionText="10" points="4" wins="0">
+				<Driver driverId="hill" url="http://en.wikipedia.org/wiki/Graham_Hill">
+					<GivenName>Graham</GivenName>
+					<FamilyName>Hill</FamilyName>
+					<DateOfBirth>1929-02-15</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="brm" url="http://en.wikipedia.org/wiki/BRM">
+					<Name>BRM</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="11" positionText="11" points="4" wins="0">
+				<Driver driverId="goldsmith" url="http://en.wikipedia.org/wiki/Paul_Goldsmith">
+					<GivenName>Paul</GivenName>
+					<FamilyName>Goldsmith</FamilyName>
+					<DateOfBirth>1925-10-02</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="epperly" url="http://en.wikipedia.org/wiki/Epperly">
+					<Name>Epperly</Name>
+					<Nationality>American</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="12" positionText="12" points="4" wins="0">
+				<Driver driverId="trips" url="http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips">
+					<GivenName>Wolfgang</GivenName>
+					<FamilyName>von Trips</FamilyName>
+					<DateOfBirth>1928-05-04</DateOfBirth>
+					<Nationality>German</Nationality>
+				</Driver>
+				<Constructor constructorId="ferrari" url="http://en.wikipedia.org/wiki/Scuderia_Ferrari">
+					<Name>Ferrari</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="13" positionText="13" points="4" wins="0">
+				<Driver driverId="clark" url="http://en.wikipedia.org/wiki/Jim_Clark">
+					<GivenName>Jim</GivenName>
+					<FamilyName>Clark</FamilyName>
+					<DateOfBirth>1936-03-04</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="team_lotus" url="http://en.wikipedia.org/wiki/Team_Lotus">
+					<Name>Team Lotus</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="14" positionText="14" points="3" wins="0">
+				<Driver driverId="henry_taylor" url="http://en.wikipedia.org/wiki/Henry_Taylor_(racing_driver)">
+					<GivenName>Henry</GivenName>
+					<FamilyName>Taylor</FamilyName>
+					<DateOfBirth>1932-12-16</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="cooper-climax" url="http://en.wikipedia.org/wiki/Cooper_Car_Company">
+					<Name>Cooper-Climax</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="15" positionText="15" points="3" wins="0">
+				<Driver driverId="brooks" url="http://en.wikipedia.org/wiki/Tony_Brooks">
+					<GivenName>Tony</GivenName>
+					<FamilyName>Brooks</FamilyName>
+					<DateOfBirth>1932-02-25</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="cooper-climax" url="http://en.wikipedia.org/wiki/Cooper_Car_Company">
+					<Name>Cooper-Climax</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+				<Constructor constructorId="vanwall" url="http://en.wikipedia.org/wiki/Vanwall">
+					<Name>Vanwall</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="16" positionText="16" points="3" wins="0">
+				<Driver driverId="branson" url="http://en.wikipedia.org/wiki/Don_Branson">
+					<GivenName>Don</GivenName>
+					<FamilyName>Branson</FamilyName>
+					<DateOfBirth>1920-06-02</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="phillips" url="http://en.wikipedia.org/wiki/Phillips_(constructor)">
+					<Name>Phillips</Name>
+					<Nationality>American</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="17" positionText="17" points="3" wins="0">
+				<Driver driverId="menditeguy" url="http://en.wikipedia.org/wiki/Carlos_Menditeguy">
+					<GivenName>Carlos</GivenName>
+					<FamilyName>Menditeguy</FamilyName>
+					<DateOfBirth>1914-08-10</DateOfBirth>
+					<Nationality>Argentine</Nationality>
+				</Driver>
+				<Constructor constructorId="cooper-maserati" url="http://en.wikipedia.org/wiki/Cooper_Car_Company">
+					<Name>Cooper-Maserati</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="18" positionText="18" points="2" wins="0">
+				<Driver driverId="bonnier" url="http://en.wikipedia.org/wiki/Joakim_Bonnier">
+					<GivenName>Jo</GivenName>
+					<FamilyName>Bonnier</FamilyName>
+					<DateOfBirth>1930-01-31</DateOfBirth>
+					<Nationality>Swedish</Nationality>
+				</Driver>
+				<Constructor constructorId="brm" url="http://en.wikipedia.org/wiki/BRM">
+					<Name>BRM</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="19" positionText="19" points="2" wins="0">
+				<Driver driverId="thomson" url="http://en.wikipedia.org/wiki/Johnny_Thomson">
+					<GivenName>Johnny</GivenName>
+					<FamilyName>Thomson</FamilyName>
+					<DateOfBirth>1922-04-09</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="lesovsky" url="http://en.wikipedia.org/wiki/Lesovsky">
+					<Name>Lesovsky</Name>
+					<Nationality>American</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="20" positionText="20" points="2" wins="0">
+				<Driver driverId="ginther" url="http://en.wikipedia.org/wiki/Richie_Ginther">
+					<GivenName>Richie</GivenName>
+					<FamilyName>Ginther</FamilyName>
+					<DateOfBirth>1930-08-05</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="ferrari" url="http://en.wikipedia.org/wiki/Scuderia_Ferrari">
+					<Name>Ferrari</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+				<Constructor constructorId="scarab" url="http://en.wikipedia.org/wiki/Scarab_(constructor)">
+					<Name>Scarab</Name>
+					<Nationality>American</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="21" positionText="21" points="1" wins="0">
+				<Driver driverId="bianchi" code="BIA" url="http://en.wikipedia.org/wiki/Lucien_Bianchi">
+					<GivenName>Lucien</GivenName>
+					<FamilyName>Bianchi</FamilyName>
+					<DateOfBirth>1934-11-10</DateOfBirth>
+					<Nationality>Belgian</Nationality>
+				</Driver>
+				<Constructor constructorId="cooper-climax" url="http://en.wikipedia.org/wiki/Cooper_Car_Company">
+					<Name>Cooper-Climax</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="22" positionText="22" points="1" wins="0">
+				<Driver driverId="flockhart" url="http://en.wikipedia.org/wiki/Ron_Flockhart_(auto_racing)">
+					<GivenName>Ron</GivenName>
+					<FamilyName>Flockhart</FamilyName>
+					<DateOfBirth>1923-06-16</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="team_lotus" url="http://en.wikipedia.org/wiki/Team_Lotus">
+					<Name>Team Lotus</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="23" positionText="23" points="1" wins="0">
+				<Driver driverId="johnson" url="http://en.wikipedia.org/wiki/Eddie_Johnson_(auto_racer)">
+					<GivenName>Eddie</GivenName>
+					<FamilyName>Johnson</FamilyName>
+					<DateOfBirth>1919-02-10</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="trevis" url="http://en.wikipedia.org/wiki/Trevis">
+					<Name>Trevis</Name>
+					<Nationality>American</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="24" positionText="24" points="0" wins="0">
+				<Driver driverId="trintignant" url="http://en.wikipedia.org/wiki/Maurice_Trintignant">
+					<GivenName>Maurice</GivenName>
+					<FamilyName>Trintignant</FamilyName>
+					<DateOfBirth>1917-10-30</DateOfBirth>
+					<Nationality>French</Nationality>
+				</Driver>
+				<Constructor constructorId="cooper-climax" url="http://en.wikipedia.org/wiki/Cooper_Car_Company">
+					<Name>Cooper-Climax</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+				<Constructor constructorId="cooper-maserati" url="http://en.wikipedia.org/wiki/Cooper_Car_Company">
+					<Name>Cooper-Maserati</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="25" positionText="25" points="0" wins="0">
+				<Driver driverId="ruby" url="http://en.wikipedia.org/wiki/Lloyd_Ruby">
+					<GivenName>Lloyd</GivenName>
+					<FamilyName>Ruby</FamilyName>
+					<DateOfBirth>1928-01-12</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="watson" url="http://en.wikipedia.org/wiki/A.J._Watson">
+					<Name>Watson</Name>
+					<Nationality>American</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="26" positionText="26" points="0" wins="0">
+				<Driver driverId="halford" url="http://en.wikipedia.org/wiki/Bruce_Halford">
+					<GivenName>Bruce</GivenName>
+					<FamilyName>Halford</FamilyName>
+					<DateOfBirth>1931-05-18</DateOfBirth>
+					<Nationality>British</Nationality>
+				</Driver>
+				<Constructor constructorId="cooper-climax" url="http://en.wikipedia.org/wiki/Cooper_Car_Company">
+					<Name>Cooper-Climax</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="27" positionText="27" points="0" wins="0">
+				<Driver driverId="beaufort" url="http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort">
+					<GivenName>Carel Godin</GivenName>
+					<FamilyName>de Beaufort</FamilyName>
+					<DateOfBirth>1934-04-10</DateOfBirth>
+					<Nationality>Dutch</Nationality>
+				</Driver>
+				<Constructor constructorId="cooper-climax" url="http://en.wikipedia.org/wiki/Cooper_Car_Company">
+					<Name>Cooper-Climax</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="28" positionText="28" points="0" wins="0">
+				<Driver driverId="veith" url="http://en.wikipedia.org/wiki/Bob_Veith">
+					<GivenName>Bob</GivenName>
+					<FamilyName>Veith</FamilyName>
+					<DateOfBirth>1926-11-01</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="meskowski" url="http://en.wikipedia.org/wiki/Meskowski">
+					<Name>Meskowski</Name>
+					<Nationality>American</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="29" positionText="29" points="0" wins="0">
+				<Driver driverId="gregory" url="http://en.wikipedia.org/wiki/Masten_Gregory">
+					<GivenName>Masten</GivenName>
+					<FamilyName>Gregory</FamilyName>
+					<DateOfBirth>1932-02-29</DateOfBirth>
+					<Nationality>American</Nationality>
+				</Driver>
+				<Constructor constructorId="behra-porsche" url="http://en.wikipedia.org/wiki/Behra-Porsche">
+					<Name>Behra-Porsche</Name>
+					<Nationality>Italian</Nationality>
+				</Constructor>
+				<Constructor constructorId="cooper-maserati" url="http://en.wikipedia.org/wiki/Cooper_Car_Company">
+					<Name>Cooper-Maserati</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+			<DriverStanding position="30" positionText="30" points="0" wins="0">
+				<Driver driverId="larreta" url="http://en.wikipedia.org/wiki/Alberto_Rodriguez_Larreta">
+					<GivenName>Alberto Rodriguez</GivenName>
+					<FamilyName>Larreta</FamilyName>
+					<DateOfBirth>1934-01-14</DateOfBirth>
+					<Nationality>Argentine</Nationality>
+				</Driver>
+				<Constructor constructorId="team_lotus" url="http://en.wikipedia.org/wiki/Team_Lotus">
+					<Name>Team Lotus</Name>
+					<Nationality>British</Nationality>
+				</Constructor>
+			</DriverStanding>
+		</StandingsList>
+	</StandingsTable>
+</MRData>
